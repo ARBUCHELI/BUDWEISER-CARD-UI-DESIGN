@@ -5,7 +5,7 @@ This is a Web Application focused on Graphic Design, and focused on the use of c
 The web application consists of two design cards that can be implemented at a commercial level for any product you want to sell.  
 The most important aspect of this application is the graphic design used in order to draw the customer's attention to a particular product.
 
-![BUDWEISER](https://github.com/ARBUCHELI/BUDWEISER-CARD-UI-DESIGN/edit/master/README.md)
+![BUDWEISER](https://raw.githubusercontent.com/ARBUCHELI/BUDWEISER-CARD-UI-DESIGN/master/budweiser.jpg)
 
 <strong>INSTRUCTIONS</strong>
 
